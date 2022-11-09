@@ -13,7 +13,8 @@ Manage departments and employees information.
 
 ### Executing program
 
-- Create database name "company"  then import data.sql.
-- Run Spring Boot project "company_api".
+- Create database name "company"  
+- Import data.sql in dumDB to database.
+- Run Spring project "company_api"
 - Port: http://localhost:8080/
-- Open index.html in Front-end.
+- Open index.html in Front-end
